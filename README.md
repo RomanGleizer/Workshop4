@@ -30,3 +30,6 @@ NAND
 XOR
 ![image](https://github.com/RomanGleizer/Workshop4/assets/125725530/8fb4f20d-9d28-4337-9e40-98cffdc7c7a8)
 
+Зад 3
+![image](https://github.com/RomanGleizer/Workshop4/assets/125725530/74d4616b-b34e-47bb-ace2-c85953259057)
+
