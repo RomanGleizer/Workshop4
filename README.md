@@ -13,6 +13,9 @@ AND
 NAND
 ![image](https://github.com/RomanGleizer/Workshop4/assets/125725530/97bd1bdd-5147-4ef8-828f-dc813a0c808e)
 
+XOR
+![image](https://github.com/RomanGleizer/Workshop4/assets/125725530/165a1083-0e2f-4253-9361-b8ecb947c7d4)
+
 2 зад
 
 OR
@@ -23,3 +26,7 @@ AND
 
 NAND
 ![image](https://github.com/RomanGleizer/Workshop4/assets/125725530/02cfd95d-38ac-49c2-be74-067ad4619121)
+
+XOR
+![image](https://github.com/RomanGleizer/Workshop4/assets/125725530/8fb4f20d-9d28-4337-9e40-98cffdc7c7a8)
+
